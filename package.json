@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/samhoudmedia/aframe-boilerplate-parcel/issues"
   },
-  "homepage": "https://github.com/samhoudmedia/aframe-boilerplate-parcel#readme"
+  "homepage": "https://github.com/samhoudmedia/aframe-boilerplate-parcel#readme",
+  "dependencies": {
+    "aframe": "^0.7.1"
+  }
 }
