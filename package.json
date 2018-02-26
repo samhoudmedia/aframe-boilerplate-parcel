@@ -1,0 +1,23 @@
+{
+  "name": "aframe-boilerplate-parcel",
+  "version": "1.0.0",
+  "description": "A-Frame boilerplate with zero config using Parcel. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samhoudmedia/aframe-boilerplate-parcel.git"
+  },
+  "keywords": [
+    "a-frame",
+    "boilerplate"
+  ],
+  "author": "Danny de Vries",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samhoudmedia/aframe-boilerplate-parcel/issues"
+  },
+  "homepage": "https://github.com/samhoudmedia/aframe-boilerplate-parcel#readme"
+}
